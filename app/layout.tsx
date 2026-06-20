@@ -3,6 +3,7 @@ import { Geist, Geist_Mono } from "next/font/google";
 import "./globals.css";
 import SmoothScroll from "@/components/providers/SmoothScroll";
 import { Inter, Playfair_Display } from "next/font/google";
+import { SpeedInsights } from "@vercel/speed-insights/next";
 // import CustomCursor from "@/components/CustomCursor";
 
 
@@ -47,6 +48,7 @@ export default function RootLayout({
     {/* <CustomCursor /> */}
   {children}
   </SmoothScroll>
+  <SpeedInsights />
   </body>
 </html>
   );
