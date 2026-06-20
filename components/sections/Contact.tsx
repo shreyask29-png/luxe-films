@@ -30,19 +30,19 @@ export default function Contact() {
     shreyaskeshapur89@gmail.com
   </a>
 
-  {/* <a
+  <a
     href="tel:+917338101850"
     className="block text-2xl md:text-2xl font-light hover:text-zinc-300 transition"
   >
     +91 7338 101 850
-  </a> */}
-  <a
+  </a>
+  {/* <a
   href="https://wa.me/917338101850"
   target="_blank"
   className="block text-2xl md:text-2xl font-light hover:text-zinc-300 transition"
 >
   WhatsApp: +91 7338 101 850
-</a>
+</a> */}
 
   <a
     href="https://www.instagram.com/ishrey029/"
