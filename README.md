@@ -28,7 +28,7 @@ https://luxe-films.vercel.app
 
 ## Screenshots
 
-(Add screenshots later)
+Project screenshots will be added soon.
 
 ## Installation
 
